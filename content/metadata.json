@@ -14,6 +14,7 @@
   { "type": "DXVK", "verName": "2.5.3", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/dxvk-2.5.3.wcp" },
   { "type": "VKD3D", "verName": "dev.281024", "verCode": 2, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/VKD3D-proton-dev.281024.wcp" },
   { "type": "VKD3D", "verName": "VKD3D12fix.RE3", "verCode": 2, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/VKD3D12fix.RE3.wcp" },
+  { "type": "VKD3D", "verName": "2.14.1", "verCode": 0, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/D3d_wcp/VKD3D-2.14.1.wcp" },
   { "type": "Turnip", "verName": "23.3.0", "verCode": 1, "remoteUrl": "https://github.com/longjunyu2/winlator/releases/download/v7.1.2/turnip-23.3.0.wcp" },
   { "type": "Turnip", "verName": "24.3.0-d264c66f", "verCode": 1, "remoteUrl": "https://github.com/longjunyu2/winlator/releases/download/v7.1.2/turnip-24.3.0-d264c66f.wcp" },
   { "type": "Turnip", "verName": "25.0.0", "verCode": 5, "remoteUrl": "https://github.com/K11MCH1/WinlatorTurnipDrivers/releases/download/winlator_v25.0_r5/turnip-v25.0.0-R5.wcp" },
