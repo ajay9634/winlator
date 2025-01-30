@@ -13,7 +13,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 # Current status
 
-update paused !
+Update paused !
 It maybe continue in the future.
 
 Install ajay prefix in the latest vanilla winlator. Link - [Ajay prefix](https://github.com/ajay9634/Ajay-prefix)
