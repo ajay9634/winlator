@@ -11,6 +11,13 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 1. Download and install the APK (Winlator apk) from [GitHub Releases](https://github.com/ajay9634/winlator-ajay/releases)
 2. Launch the app and wait for the installation process to finish
 
+# Current status
+
+update paused !
+It maybe continue in the future.
+
+Install ajay prefix in the latest vanilla winlator. Link - [Ajay prefix](https://github.com/ajay9634/Ajay-prefix)
+
 ----
 
 [![Play on Youtube](https://img.youtube.com/vi/ETYDgKz4jBQ/3.jpg)](https://www.youtube.com/watch?v=ETYDgKz4jBQ)
